@@ -1,0 +1,8 @@
+export * as authService from './auth'
+export * as userService from './user'
+export * as kriteriaService from './kriteria'
+export * as subkriteriaService from './subkriteria'
+export * as alternatifService from './alternatif'
+export * as rawInputService from './rawInput'
+export * as evaluasiFaktorService from './evaluasiFaktor'
+export * as nilaiAkhirService from './nilaiAkhir'
